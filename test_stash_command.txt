@@ -1,2 +1,6 @@
 akhilesh1
+<<<<<<< Updated upstream
 akhilesh2 changed in remote directly
+=======
+akhilesh3 change from local
+>>>>>>> Stashed changes
